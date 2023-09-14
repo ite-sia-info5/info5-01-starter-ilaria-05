@@ -89,7 +89,7 @@ Puoi dare un'occhiata al sito web di GitHub Explore [su github.com/explore](http
 
 ## 📝 Passi successivi
 
-* Apri una pull request e informa il tuo insegnante che hai completato questo corso.
+* Apri una pull request e informa il tuo insegnante che hai completato questo corso: ho creato il branch informazione
 * Crea un nuovo file markdown in questo repository. Fai sapere a tutti cosa hai imparato e su cosa hai ancora dubbi! Sperimenta con stili diversi!
 * Crea il tuo README di profilo. Fai sapere al mondo un po' di più su di te! Cosa ti interessa imparare? Su cosa stai lavorando? Qual è il tuo hobby preferito? Scopri di più sulla creazione del tuo README di profilo nel documento, ["Gestione del tuo Profilo README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Vai alla tua dashboard utente e crea un nuovo repository. Sperimenta con le funzioni all'interno di quel repository per familiarizzare con esse.
